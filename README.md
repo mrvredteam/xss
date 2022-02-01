@@ -1,3 +1,3 @@
 # xss
 
-<a href="0;a">xss</a>
+<img src=//14.rs />
