@@ -1,3 +1,1 @@
-# xss
-
-<img src=//14.rs />
+# swagger xss
