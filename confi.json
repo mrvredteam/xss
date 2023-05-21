@@ -1,8 +1,8 @@
 {
-  "url": "https://",
+  "url": "https://raw.githubusercontent.com/mrvredteam/xss/main/config.yaml",
   "urls": [
     {
-      "url": "https://",
+      "url": "https://raw.githubusercontent.com/mrvredteam/xss/main/config.yaml",
       "name": "Foo"
     }
   ]
