@@ -1,0 +1,9 @@
+{
+  "url": "https://raw.githubusercontent.com/mrvredteam/xss/refs/heads/main/config3.yaml",
+  "urls": [
+    {
+      "url": "https://raw.githubusercontent.com/mrvredteam/xss/refs/heads/main/config3.yaml",
+      "name": "Foo"
+    }
+  ]
+}
